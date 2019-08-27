@@ -1,0 +1,4 @@
+baseURL = "http://stray.bike/"
+languageCode = "en-us"
+title = "A Stray Bike"
+theme = "ananke"
