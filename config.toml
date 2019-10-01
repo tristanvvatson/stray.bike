@@ -2,6 +2,10 @@ baseURL = "https://stray.bike/"
 languageCode = "en-us"
 title = "A Stray Bike"
 theme = "ananke"
+SectionPagesMenu = "main"
+Paginate = 5
+googleAnalytics = ""
+enableRobotsTXT = true
 
 [params]
   favicon = ""
