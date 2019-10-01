@@ -7,6 +7,9 @@ Paginate = 5
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[blackfriday]
+  extensions = ["hardLineBreak"]
+
 [params]
   favicon = ""
   description = "stray.bike"
