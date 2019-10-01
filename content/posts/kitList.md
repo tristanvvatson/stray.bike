@@ -5,6 +5,9 @@ description: "My kit list for cycling across Spain for 2 months"
 ---
 My kit list for cycling around Spain for 2 months from September to November is as follows:
 
+![Kit](static/69874942_1311301269050497_5383191871228035339_n.jpg)
+
+
 **Kit**:
 1x Cycling mits to keep the pressure points off
 1x Vermarc basic cycling jersey
