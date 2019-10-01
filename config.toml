@@ -1,4 +1,20 @@
-baseURL = "http://stray.bike/"
+baseURL = "https://stray.bike/"
 languageCode = "en-us"
 title = "A Stray Bike"
 theme = "ananke"
+
+[params]
+  favicon = ""
+  description = "stray.bike"
+  facebook = ""
+  twitter = "https://twitter.com/tristanvvatson"
+  instagram = "https://instagram.com/straybike"
+  youtube = "https://youtube.com/straybike"
+  github = "https://github.com/tristanvvatson"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
