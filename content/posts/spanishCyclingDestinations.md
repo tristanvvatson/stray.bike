@@ -22,4 +22,11 @@ Furthermore, there are an abundance of well established bike shops such as BikeB
 
 The ugly though, is the that secret is out, and it is potentially coming a bit of a themepark for cycling. I have written in more detail about that here.
 
-**Barce
+**Barcelona:**
+
+Another potentially enticing cycling destination, Barcelona has a hidden opportunity to ride your bike whilst being in a major international tourist hub. There's a huge amount of climbing around the city and a road which takes you all the way to Stignes along stunning coastline. 
+The accesibility is easy, and you can fly straight into Barcelona (BCN) international airport. Failing that, there are also flights the Reus from where you can get the train. However, the size of Barcelona and the close proximity mean you are probably best just flying straight over to Barcelona Airport. The climate is similar to that of Girona, however you are instead by the coast. This can increase the likelihood of a torrential storm, so be prepared. The riding is extremely varied. You can make use of the city's new bicycle lanes to get out of the hectic city, but be warned that riding within the city centre is a little risky and dangerous just like any major city. You will tend to be on busy industrial roads to get out to the coast, and therefore it is likely best to ride on the weekend when these areas are quiet. The drivers are less attentive and more likely to take risks because of the inner city mentality. Mobiles were also a problem here. There are some great bicycle shops, but if you are heading this way be sure to check out Velodrom, a high-end cycling shop in the north of the city offering top quality cycling apparel and bicycles. There are more bicycle shops to take note of such as the Orbea Concept Store which boasts their full range. Due to it's limited acceptance of being a cycling city though be warned that it could be difficult to rent a bicycle. The congestion and red lights in the grid system become a problem.
+
+Overall, a surprisingly good city to cycle in, but be prepared to spend time getting out of the city, and watch out for the traffic within the major urban zones.
+
+**Reus & Tarragona:** Gaudi was born in Reus, and you can still see his house if you visit. Geographically from a satmap point of view, Reus intriuged me as a potential haven for cycling. Where as Tarragona as a city is encompassedwith busy intersections and motorway junctions, Reus is situated slightly out of this area with an area of 

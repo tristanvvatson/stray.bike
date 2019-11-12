@@ -1,12 +1,13 @@
 baseURL = "https://stray.bike/"
 languageCode = "en-us"
-title = "A Stray Bike"
+title = "stray.bike"
 theme = "ananke"
 SectionPagesMenu = "main"
-Paginate = 5
-googleAnalytics = ""
+Paginate = 
+googleAnalytics = "UA-152112346-1"
 enableRobotsTXT = true
 
+# Allow for linebreaks
 [blackfriday]
   extensions = ["hardLineBreak"]
 
