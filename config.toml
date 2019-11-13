@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "stray.bike"
 theme = "ananke"
 SectionPagesMenu = "main"
-Paginate = 
+Paginate = 5
 googleAnalytics = "UA-152112346-1"
 enableRobotsTXT = true
 
