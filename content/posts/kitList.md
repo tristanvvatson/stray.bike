@@ -5,7 +5,7 @@ description: "My kit list for cycling across Spain for 2 months"
 ---
 My kit list for cycling around Spain for 2 months from September to November is as follows:
 
-![Kit](images/kitlist.jpg)
+![Kit](/images/kitlist.jpg)
 
 
 **Kit**:
